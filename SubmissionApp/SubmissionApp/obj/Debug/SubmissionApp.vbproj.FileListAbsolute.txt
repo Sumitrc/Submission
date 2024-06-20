@@ -1,0 +1,17 @@
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.AssemblyReference.cache
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.MainForm.resources
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.Resources.resources
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.NewSubmissionForm.resources
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.ViewSubmissionsForm.resources
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.GenerateResource.cache
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.vbproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.exe.config
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.exe
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.pdb
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\bin\Debug\SubmissionApp.xml
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\Submissi.43C884B2.Up2Date
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.exe
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.xml
+C:\Users\USER\source\repos\SubmissionApp\SubmissionApp\obj\Debug\SubmissionApp.pdb
